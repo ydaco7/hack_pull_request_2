@@ -1,7 +1,6 @@
 # hack_pull_request_2
 <br/>
 
-Yadiel
 # challenge_git_1
 
 ## Yadiel Arias
